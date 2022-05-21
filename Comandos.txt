@@ -1,0 +1,20 @@
+cd thecmdchallenge/
+pwd
+ls -a
+ls -R
+clear
+cd (tab) 3 veces -no existe el archivo "trophy.txt"-
+cd .. 3 veces cd funcode/ ls *.js
+cd the-most-funny/ mkdir not-that-funny
+cp ../../../boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt lol.txt
+mv ../../../funcode/kids.jpg ../../../funcode/images/hello/
+rm -r ../../../small-name
+cat ../../../funcode/the-most-funny/lol/the-ultimate-joke.txt
+rm -r ../../../boringfolder/
+vi ../../../kamehameha/dragon-ball-jokes.md
+vi ../../../kamehameha/dragon-ball-jokes.md (borrar primera linea) Esc :wq
+
+
+
+
+
